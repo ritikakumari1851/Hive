@@ -1,0 +1,12 @@
+com\mycompany\minigram\servlet\UploadServlet.class
+com\mycompany\minigram\resources\JakartaEE11Resource.class
+com\mycompany\minigram\servlet\DeletePostServlet.class
+com\mycompany\minigram\servlet\LogoutServlet.class
+com\mycompany\minigram\servlet\LikeServlet.class
+com\mycompany\minigram\servlet\EditProfileServlet.class
+com\mycompany\minigram\dao\DBConnection.class
+com\mycompany\minigram\servlet\LoginServlet.class
+com\mycompany\minigram\servlet\RegisterServlet.class
+com\mycompany\minigram\servlet\CommentServlet.class
+com\mycompany\minigram\JakartaRestConfiguration.class
+com\mycompany\minigram\servlets\FollowUnfollowServlet.class
